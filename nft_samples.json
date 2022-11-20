@@ -1,7 +1,22 @@
 [
-{
-
-},
-{
-}
+  {
+    Id: 'lao-tse-001',
+    Nombre: 'Lao Tsé',
+    Descripcion: 'Una frase motivadora que aconseja seguir siempre nuestro camino a pesar de las adversidades.',
+    URL: 'https://github.com/nowheremanmail/uoc/edit/main/lao-tse-001.txt'
+    No hay que ir para atrás ni para darse impulso
+    
+  },
+  {
+    Id: 'mahatma-gandhi-001',
+    Nombre: 'Mahatma Gandhi',
+    Descripcion: 'Gandhi nos dejó para la historia esta preciosa frase sobre la paz.',
+    URL: 'https://github.com/nowheremanmail/uoc/edit/main/mahatma-gandhi-001.txt'
+  },
+  {
+    Id: 'john-lennon-001',
+    Nombre: 'John Lennon',
+    Descripcion: 'El cantante John Lennon siempre tuvo una mentalidad pacificadora.',
+    URL: 'https://github.com/nowheremanmail/uoc/edit/main/john-lennon-001.txt'
+  }
 ]
